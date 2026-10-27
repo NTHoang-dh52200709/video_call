@@ -1,0 +1,1 @@
+{"name":"noi-video-call","private":true,"type":"module","scripts":{"dev":"node server.mjs","check":"node --check dist/app.js && node --check dist/config.js"}}
